@@ -88,6 +88,16 @@ There are many different challenges that we ran into while developing our websit
 
 ❌ Integration of **React Mapbox Geocoder** to navigate and search places.
 
+## 🎯  Future Development
+
+For further development, we plan to:
+
+💥 Host our website using the domain **wasteraser.tech**, which we have bought from domain.com.
+
+💥 A user database to store people's information.
+
+💥 Show routes to nearby dustbins to users.
+
 ## 🚀 How we have used Github in our project? 🚀
 We used Github in different ways: 
 
