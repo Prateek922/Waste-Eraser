@@ -75,7 +75,7 @@ Waste Eraser will help tourists to locate proper dustbins to throw waste, also t
 dustbins on maps which will be very helpful. Apart from this, we also have added covid dustbins, where waste like used PPE kits, test kits, syringes, 
 needles, and safety boxes can be thrown as this waste can cause infections and cannot be thrown away on bare grounds.
 
-For further development, we hope to have user database to store people's information and also hope to show routes to nearbuy dustbins to user.
+For further development, we hope to host our website and to have a user database to store people's information and also hope to show routes to nearby dustbins to users.
 
 ## 🏃 Challenges we ran into
 There are many different challenges that we ran into while developing our website:
