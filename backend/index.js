@@ -18,6 +18,10 @@ app.use(cors({
 //Available Routes
 app.use('/api/markers',require('./src/routes/markers'));
 
+// Catch-all route to serve the React app
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '../frontend/build', 'index.html'));
+});
 
 //Handling page not found
 app.use(notFound);
