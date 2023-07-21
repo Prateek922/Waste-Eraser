@@ -11,7 +11,7 @@ Waste eraser helps people to **locate** nearby dustbins along with adding new du
 
 Similarly, new dustbin locations can be added to the map. Apart from this, for people who add new dustbin locations, we plant trees in exchange for their good work. People can choose the locality where they want to plant trees. Out of all reasons for the destruction of our planet, heavy waste generation should not be a part.
 
-### Check out our [Video Demo](https://pages.github.com/)!
+### Check out our [Video Demo](https://www.youtube.com/watch?v=vPW06fxcpeE)!
 
 
 ## 💡 Inspiration
@@ -75,7 +75,7 @@ Waste Eraser will help tourists to locate proper dustbins to throw waste, also t
 dustbins on maps which will be very helpful. Apart from this, we also have added covid dustbins, where waste like used PPE kits, test kits, syringes, 
 needles, and safety boxes can be thrown as this waste can cause infections and cannot be thrown away on bare grounds.
 
-For further development, we hope to have user database to store people's information and also hope to show routes to nearbuy dustbins to user.
+For further development, we hope to host our website and to have a user database to store people's information and also hope to show routes to nearby dustbins to users.
 
 ## 🏃 Challenges we ran into
 There are many different challenges that we ran into while developing our website:
@@ -87,6 +87,16 @@ There are many different challenges that we ran into while developing our websit
 ❌ Including **Draw Polygon** feature on our map layer.
 
 ❌ Integration of **React Mapbox Geocoder** to navigate and search places.
+
+## 🎯  Future Development
+
+For further development, we plan to:
+
+💥 Host our website using the domain **wasteraser.tech**, which we have bought from domain.com.
+
+💥 A user database to store people's information.
+
+💥 Show routes to nearby dustbins to users.
 
 ## 🚀 How we have used Github in our project? 🚀
 We used Github in different ways: 
