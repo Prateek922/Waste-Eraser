@@ -1,0 +1,24 @@
+{
+  "name": "waste_eraser",
+  "version": "1.0.0",
+  "description": "**Want to throw your waste in dustbins but cannot find any nearby dustbins?** Great!! Because Waste Eraser is what you need.\r Waste Eraser is an application that shows you nearby dustbins according to the type of waste you want to dispose of. This app is a very simple way to clean your surrounding in the right way.",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd backend && npm install",
+    "start-server": "cd backend && node index.js",
+    "install-client": "cd frontend && npm install",
+    "build-client": "cd frontend && npm run build",
+    "start-client": "cd frontend && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prateek922/Waste-Eraser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prateek922/Waste-Eraser/issues"
+  },
+  "homepage": "https://github.com/Prateek922/Waste-Eraser#readme"
+}
